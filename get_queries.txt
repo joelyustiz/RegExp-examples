@@ -1,0 +1,8 @@
+
+
+
+
+http://b3co.com/?s=fotografia&mode=search&module=blog
+
+[\?&](\w+)=([^&\n]+)
+

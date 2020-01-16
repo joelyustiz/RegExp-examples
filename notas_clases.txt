@@ -1,0 +1,79 @@
+¿Qué es un archivo de texto, por ejemplo un CSV? ¿Qué es una cadena
+ de caractéres?  Cada espacio en una cadena de texto se llena con un
+  caracter, esto lo necesitamos tener perfectamente claro para comenzar 
+  a trabajar con expresiones regulares  Abriremos nuestro editor qué en 
+  este curso recomendamos ATOM y vamos a presionar CTRL + F y podemos
+   buscar por match idénticos.
+
+   \d    busca digitos
+
+Resumen definitivo
+Del . nacen 3 tipos diferentes de clases predefinidas por la sintaxis de expresiones regulares: El dígito, la palabra, los espacios
+
+Aqui encontraran a detalle el vocabulario completo de expresiones regulares: https://es.wikipedia.org/wiki/Expresión_regular
+
+Utilizamos “” , no usen el slash común(/) por que no les andará la búsqueda. para usarlo: Alt + 92
+
+\d= Busca dígitos
+\d\d\d = representa segmentos consecutivos segun la cantidad de \d que se coloquen
+\s= busca espacios
+\w= representa números y letras, exceptuando caracteres especiales
+\t= representa el tabulador
+.= representa el carácter “.”, (NO la clase)
+
+[0- 9]= representa todos los números del 0 al 9
+[a-z] equivale a d, pero sin representar del 0 al 9
+[A-Z]= Busca todos los caracteres desde la a a la z solo en mayusculas.
+[0-9a-zA-Z_] ~ \w
+
+
+{} =Esta expresión le dice al motor de búsqueda que encuentre dos
+ dígitos contiguos. Utilizando esta fórmula podríamos convertir el 
+ ejemplo “^\d\d/\d\d/\d\d\d\d$” que servía para validar un formato de 
+ fecha en “^\d{2}/\d{2}/\d{4}$” para una mayor claridad en la lectura de 
+ la expresión.
+
+ * greedy - todo
+ + uno o más
+
+ .* buscara todos los caracteres
+
+^ Negacion en clases  [^]
+
+^inicio de linea  $ fin de linea
+
+en mayusculas los valores se niegan ejemplo  \D \W \s
+
+
+## patrones
+
+mails: `[\w\._]{5,30}\+?[\w]{0,10}@`
+coordenadas 1: `^\-?\d{1,3}\.\d{1,6},\s?\-?\d{1,3}\.\d{1,6},.*$`
+coordenadas 2: `^\-?\d{1,3}\s\d{1,2}' \d{1,2}\.\d{2,2}"[WE],\s?\-?\d{1,3}$\s\d{1,2}' \d{1,2}\.\d{2,2}"[SN]$`
+
+
+buscar logs
+
+^\[LOG.*\[WARN\].*$
+
+^\[LOG.*\[WARN\].*$
+
+^\[LOG.*\[LOG\].*user:@\w+?\] .*$
+
+
+buscar cierto formatos de números telefónicos:
+
+^\+?\d{2,3}[^\da-z]?\d{2,3}[^\da-z]?\d{2,3}[#pe]?\d*$
+
+buscar url validas:
+
+https?:\/\/[\w\-\.]+\.\w{2,5}\/?\S*
+
+mail: [\w\._]{5,30}(\+[\w]{0,10})?@[\w\.\-]{3,}\.\w{2,5}
+
+filtar nombres hecha por mi:
+
+^[A-Za-zÑñÁÉÍÓÚáéíóú]{3,}((\s[A-Za-zÑñÁÉÍÓÚáéíóú])?[A-Za-zÑñÁÉÍÓÚáéíóú]{0,}){0,5}$
+
+regex ^\d+::([\w\s:,\(\)\.'\-&!\/\?;#\*$]+)\s?(\(\d\d\d\d\))::.*
+

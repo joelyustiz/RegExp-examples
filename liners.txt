@@ -1,0 +1,122 @@
+1
+12
+123
+1234
+12345
+12345678910
+12345678910a
+12345678910as
+13453243
+
+url: https://www.instagram.com/p/BXB4zsUlW5Z/?taken-by=beco.mx
+url: http://instagram.com/p/blablablah
+url: http://itam.mx/test
+https://instagram.com/p/blablablah
+https://google.comhttps://instagram.com/p/blablablah
+https://cdn-microsoft.org/imagen/seixo2t9sjl_22.jpg
+https://sub.dominio.de.alguien.com/archivo.html
+https://static.platzi.com/media/avatars/JoelYustiz_5a903282-7d2a-4dc1-a27a-5a2871502235.jpeg
+https://hola.pizza/archivo.jpg archivo.jps
+
+
+csv1,csv2,csv3,csv4,csv5
+1234,543,234,567,567
+432,765,368,285,986
+
+Rodrigo Jiménez Gutiérrez
+
+
+
+555658
+56-58-11
+56.58.11
+56.78-98
+65 09 87#123
+76y87r98
+552560p123
+552560e123
++521565811
+
+
+
+
+5556581111
+56-58-11-12-54
+56.58.11.12.54
+302-345-987
+
+esto.es_un.mail@mail.com
+esto.es.un.mail+gmail@mail.com
+@dominio.com
+rodrigo.jimenez@yahoo.com.mx
+ruben@starbucks.com
+esto_no$es_email@dominio.com
+no_se_de_internet3@hotmail.com
+yustizjoel17@gmail.com
+joel.yustizc@nube.sep.gob.mx sdfsdf
+
+
+[LOG ENTRY] [ERROR] The system is unstable
+[LOG ENTRY] [WARN] The system may be down
+[LOG ENTRY] [LOG] Everything is OK
+[LOG ENTRY] [LOG] [user:@celemix] Logged in
+[LOG ENTRY] [LOG] [user:@beco] Clicked here
+[LOG ENTRY] [LOG] [user:@beco] Rated the app
+[LOG ENTRY] [LOG] [user:@beco] Logged out
+
+
+JhonBeltrán@gmail.com
+Camila17
+pablo 22
+334awe qwwee
+Jos Mía Belén 845454
+54545454
+Jotge9
+Pedro44velez
+Jorge 9
+Maria, Reynoso
+Rodrigo JimÃ©nez GutiÃ©rrez
+Aaas3
+Rodrigo JimÃ©nez GutiÃ©rrez
+Juan_Pablo
+PabloGomezBrueraPeraSolmosLopez
+Ruben
+Juan Camilo Ortiz Gutirrez
+Marcela
+Rodrigo
+Belen
+ána
+njm nn
+Aarón Felipe Isaacs Ortiz
+Rodrigo Jiménez Gutiérrez
+Jhon Fredy Beltrán
+Jhon Fredy Beltrán León
+Ándres Alberto
+Juan Carlos Herrera Martínez
+Andrés de Jesús Montes Rodríguez
+Rodrigo Jiménez Gutiérrez
+Jhon Beltrán
+Jhon Fredy Beltrán
+Jhon Fredy Beltrán León
+Ándres Alberto
+Juan Carlos Herrera Martínez
+Andrés de Jesús Montes Rodríguez
+Bryan Estiven Silva Mercado
+Ñane Agustina Maria De Los Angeles
+Árchi Pablo Herrera Iñiga
+Rubén
+Ruben
+Jos Mia Belen
+Rúbén
+McArthy
+JorgeLuis
+Alvaro Juan Luis Alberto Jose Eduardo
+salomon chertorisky Andres
+Daniela Romo Lopez
+María Jose Guadalupe Toston Redondo
+Mia Colucci Calera Gomez De Hoyos
+Holaadiosatodos
+Holaadiosatodos mevoy
+Fernanda Gabriela Lopez Gomez
+Fernanda Gabriela Lopez Gomez Dolores
+Fernanda Gabriela Lopez Gomez Dolores Ramirez
